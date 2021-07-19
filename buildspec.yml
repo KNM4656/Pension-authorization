@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/pension-authorization.war
+    - target/pension-authorization.jar
   discard-paths: yes
